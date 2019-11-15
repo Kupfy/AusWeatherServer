@@ -24,3 +24,5 @@ hs_err_pid*
 
 # Private markdown text
 .*.md
+
+.idea
